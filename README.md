@@ -38,7 +38,7 @@ Checkpoints and Tensorboard logs will be saved at `log_dir`. To speed up trainin
 
 Please refer to [inference.ipynb](https://github.com/yl4579/StarGANv2-VC/blob/main/Demo/inference.ipynb) for details. 
 
-The pretrained StarGANv2 and ParallelWaveGAN on VCTK corpus can be downloaded at [StarGANv2 Link](https://drive.google.com/file/d/1nzTyyl-9A1Hmqya2Q_f2bpZkUoRjbZsY/view?usp=sharing) and [ParallelWaveGAN Link](https://drive.google.com/file/d/1q8oSAzwkqi99oOGXDZyLypCiz0Qzn3Ab/view?usp=sharing). Please unzip to `Models` and `Vocoder` respectivey and run each cell in the notebook.
+The pretrained StarGANv2 and ParallelWaveGAN on VCTK corpus can be downloaded at [StarGANv2 Link](https://huggingface.co/yl4579/StarGANv2-VC/blob/main/Models.zip) and [ParallelWaveGAN Link](https://huggingface.co/yl4579/StarGANv2-VC/blob/main/Vocoder.zip). Please unzip to `Models` and `Vocoder` respectivey and run each cell in the notebook.
 
 ## ASR & F0 Models
 
